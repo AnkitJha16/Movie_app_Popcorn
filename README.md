@@ -8,9 +8,9 @@ Popcorn allows users to search for movies, view details, and keep track of their
 
 # Screenshots
 
-<img src="./public/PopCorn_1.jpg" alt="application Screenshot" width="300" height="300">
-<img src="./public/PopCorn_2.jpg" alt="application Screenshot" width="300" height="300">
-<img src="./public/PopCorn_3.jpg" alt="application Screenshot" width="300" height="300">
+<img src="./public/PopCorn_1.jpg" alt="application Screenshot" width="600" height="300">
+<img src="./public/PopCorn_2.jpg" alt="application Screenshot" width="600" height="300">
+<img src="./public/PopCorn_3.jpg" alt="application Screenshot" width="600" height="300">
 
 ## Features
 
