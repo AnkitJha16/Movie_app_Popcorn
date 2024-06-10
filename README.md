@@ -1,10 +1,10 @@
-# UsePopCorn
+# PopCorn
 
-usePopcorn is a React App that allows users to search for movies, view details of movies, rate movies and bookmarking it to their personal watch list.
+Popcorn is a React App that allows users to search for movies, view details of movies, rate movies and bookmarking it to their personal watch list.
 
 ## Project details
 
-usePopcorn allows users to search for movies, view details, and keep track of their watch history. It utilizes the [OMDb](https://www.omdbapi.com/) API to fetch movie data.
+Popcorn allows users to search for movies, view details, and keep track of their watch history. It utilizes the [OMDb](https://www.omdbapi.com/) API to fetch movie data.
 
 ## Features
 
