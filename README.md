@@ -6,6 +6,12 @@ Popcorn is a React App that allows users to search for movies, view details of m
 
 Popcorn allows users to search for movies, view details, and keep track of their watch history. It utilizes the [OMDb](https://www.omdbapi.com/) API to fetch movie data.
 
+# Screenshots
+
+<img src="./public/PopCorn_1.jpg" alt="application Screenshot" width="300" height="300">
+<img src="./public/PopCorn_2.jpg" alt="application Screenshot" width="300" height="300">
+<img src="./public/PopCorn_3.jpg" alt="application Screenshot" width="300" height="300">
+
 ## Features
 
 - Search for movies by title.
